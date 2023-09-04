@@ -160,3 +160,6 @@
 프로그래스바를 제어하여 진동을 조절한다. <br>
 ![image](https://github.com/r3795/TransportationAssistant/assets/105268338/08040129-64b2-43a7-af5f-6dbab870c176)
  
+## 💡 Simulation Video
+https://github.com/r3795/TransportationAssistant/assets/105268338/aea0b2d2-9acf-489d-82e6-6487756941a3
+
